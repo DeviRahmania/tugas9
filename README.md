@@ -123,7 +123,7 @@ lalu menambahan else untuk menyetop loopingan tadi :
     else:
         break
 
-Dibawah ini adalah syntax pada visual studio code :
+Dibawah ini adalah syntax pada visual studio code  :
 
 ![img](gambar/latihan2.PNG)
 
